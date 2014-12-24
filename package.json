@@ -1,0 +1,25 @@
+{
+  "name": "commonmark-ast-sandbox",
+  "description": "CommonMark AST example.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/azu/commonmark-ast-sandbox/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/commonmark-ast-sandbox.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/commonmark-ast-sandbox/issues"
+  },
+  "dependencies": {
+    "commonmark": "^0.12.0"
+  }
+}
