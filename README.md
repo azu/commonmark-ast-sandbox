@@ -2,9 +2,13 @@
 
 [jgm/CommonMark](https://github.com/jgm/CommonMark "jgm/CommonMark") has AST.
 
+>  This format shouldn't be regarded as canonical, however; it's just a dump of the internal tree.
+
+via [It would be very nice to dump the ast in XML · Issue #53 · jgm/CommonMark](https://github.com/jgm/CommonMark/issues/53 "It would be very nice to dump the ast in XML · Issue #53 · jgm/CommonMark")
+
 ## Usage
 
-```
+``` sh
 npm install
 node index.js
 /*
